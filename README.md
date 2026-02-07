@@ -37,14 +37,37 @@ TOOLS PRO é um launcher híbrido para Windows que organiza, protege e executa s
 3. Em “CONFIG”, verifique atualizações ou ajuste a senha mestra
 4. Em “FOLDER”, acesse pastas restritas com autenticação
 
-## Screenshots
-- GAME: ![GAME](Screenshot/1%20-%20GAME.jpeg)
-- TECH: ![TECH](Screenshot/2%20-%20TECH.jpeg)
-- TOOLS: ![TOOLS](Screenshot/3%20-%20TOOLS.jpeg)
-- FOLDER: ![FOLDER](Screenshot/4%20-%20FOLDER.jpeg)
-- INFO: ![INFO](Screenshot/5%20-%20INFO.jpeg)
-- CONFIG: ![CONFIG](Screenshot/6%20-%20CONFIG.jpeg)
-- ATUALIZAÇÃO: ![ATUALIZAÇÃO](Screenshot/7%20-%20ATUALIZA%C3%87%C3%83O.jpeg)
+## Galeria
+<p align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="Screenshot/1%20-%20GAME.jpeg"><img src="Screenshot/1%20-%20GAME.jpeg" width="260" alt="GAME"></a><br/>GAME
+    </td>
+    <td align="center">
+      <a href="Screenshot/2%20-%20TECH.jpeg"><img src="Screenshot/2%20-%20TECH.jpeg" width="260" alt="TECH"></a><br/>TECH
+    </td>
+    <td align="center">
+      <a href="Screenshot/3%20-%20TOOLS.jpeg"><img src="Screenshot/3%20-%20TOOLS.jpeg" width="260" alt="TOOLS"></a><br/>TOOLS
+    </td>
+    <td align="center">
+      <a href="Screenshot/4%20-%20FOLDER.jpeg"><img src="Screenshot/4%20-%20FOLDER.jpeg" width="260" alt="FOLDER"></a><br/>FOLDER
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Screenshot/5%20-%20INFO.jpeg"><img src="Screenshot/5%20-%20INFO.jpeg" width="260" alt="INFO"></a><br/>INFO
+    </td>
+    <td align="center">
+      <a href="Screenshot/6%20-%20CONFIG.jpeg"><img src="Screenshot/6%20-%20CONFIG.jpeg" width="260" alt="CONFIG"></a><br/>CONFIG
+    </td>
+    <td align="center">
+      <a href="Screenshot/7%20-%20ATUALIZA%C3%87%C3%83O.jpeg"><img src="Screenshot/7%20-%20ATUALIZA%C3%87%C3%83O.jpeg" width="260" alt="ATUALIZAÇÃO"></a><br/>ATUALIZAÇÃO
+    </td>
+    <td></td>
+  </tr>
+</table>
+</p>
 
 ## Requisitos
 - Windows
