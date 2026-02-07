@@ -38,10 +38,13 @@ TOOLS PRO é um launcher híbrido para Windows que organiza, protege e executa s
 4. Em “FOLDER”, acesse pastas restritas com autenticação
 
 ## Screenshots
-- Imagem principal:
-![Aplicativo](Screenshot/app.png)
-- Cabeçalho:
-![Cabeçalho](Screenshot/header.png)
+- GAME: ![GAME](Screenshot/1%20-%20GAME.jpeg)
+- TECH: ![TECH](Screenshot/2%20-%20TECH.jpeg)
+- TOOLS: ![TOOLS](Screenshot/3%20-%20TOOLS.jpeg)
+- FOLDER: ![FOLDER](Screenshot/4%20-%20FOLDER.jpeg)
+- INFO: ![INFO](Screenshot/5%20-%20INFO.jpeg)
+- CONFIG: ![CONFIG](Screenshot/6%20-%20CONFIG.jpeg)
+- ATUALIZAÇÃO: ![ATUALIZAÇÃO](Screenshot/7%20-%20ATUALIZA%C3%87%C3%83O.jpeg)
 
 ## Requisitos
 - Windows
